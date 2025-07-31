@@ -45,10 +45,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Ashril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
-
 Thanks for visiting my GitHub profile! Feel free to explore my projects and reach out if you’d like to collaborate or connect 🚀
