@@ -41,7 +41,7 @@
 ## 📫 Let’s Connect!
 
 - Email: [ashrilnaza@gmail.com](mailto:ashrilnaza@gmail.com)
-- LinkedIn: [linkedin.com/in/muhammad-ashril](www.linkedin.com/in/muhammad-ashril)
+- LinkedIn: [www.linkedin.com/in/muhammad-ashril](www.linkedin.com/in/muhammad-ashril)
 
 ---
 
